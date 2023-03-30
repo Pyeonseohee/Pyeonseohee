@@ -6,7 +6,7 @@
 <div align=center>
   langueses:
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/c Sharp-239120?style=for-the-badge&logo=c\#&logoColor=white">
+  <img src="https://img.shields.io/badge/c#-239120?style=for-the-badge&logo=c Sharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=23F7DF1E">
   
   
-  <img src="https://img.shields.io/badge/unity-white?style=for-the-badge&logo=unity&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/unity-red?style=for-the-badge&logo=unity&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
