@@ -22,7 +22,7 @@
 
 - - -
 **💬  Contact Me**<br>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pshsh9234@gachon.ac.kr)](mailto:pshsh9234@gachon.ac.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pshsh9234@gachon.ac.kr)](mailto:pshsh9234@gachon.ac.kr)
 - - -
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPyeonseohee&count_bg=%231C989E&title_bg=%23000000&icon=tui.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
