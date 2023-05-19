@@ -12,7 +12,8 @@
  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/javascript-3A3A42?style=flat-square&logo=javascript&logoColor=23F7DF1E">&nbsp;
  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/unity-black?style=flat-square&logo=unity&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"><br>
+ 
  - **Back-end:**  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Soket.io&logoColor=white"> <br>
